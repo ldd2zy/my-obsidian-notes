@@ -15,7 +15,7 @@
               "state": {
                 "file": "知识扩展/计算机网络基础知识整理.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "计算机网络基础知识整理"
@@ -198,9 +198,12 @@
   },
   "active": "e078777362a1c698",
   "lastOpenFiles": [
-    "LiTruck/环境配置与项目部署/docker_ros1_LicTruck&CLion&PyCharm.md",
-    "LiTruck/环境配置与项目部署/PyCharm 远程运行与调试 Docker 中的 ROS Python 程序：完整配置手册.md",
+    "世界模型/世界模型研究现状调研.md",
     "知识扩展/计算机网络基础知识整理.md",
+    "知识扩展/Ubuntu常用代码阅读与调试指令.md",
+    "LiTruck/环境配置与项目部署/PyCharm 远程运行与调试 Docker 中的 ROS Python 程序：完整配置手册.md",
+    "LiTruck/环境配置与项目部署/docker_ros1_LicTruck&CLion&PyCharm.md",
+    "世界模型",
     "知识扩展",
     "file:/home/ldd/下载/PyCharm_Docker_ROS_通用运行与远程断点调试配置手册.md",
     "LiTruck/环境配置与项目部署"
