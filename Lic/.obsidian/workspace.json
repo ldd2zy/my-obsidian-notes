@@ -8,17 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e078777362a1c698",
+            "id": "9b896231755a8e8f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "知识扩展/计算机网络基础知识整理.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "计算机网络基础知识整理"
+              "title": "新标签页"
             }
           }
         ]
@@ -196,11 +192,15 @@
       "bases:新建数据库": false
     }
   },
-  "active": "e078777362a1c698",
+  "active": "aef2fe56c6ebe59f",
   "lastOpenFiles": [
+    "未命名",
+    "知识扩展/自动驾驶软件测试学习笔记.md",
     "世界模型/世界模型研究现状调研.md",
-    "知识扩展/计算机网络基础知识整理.md",
+    "LiTruck/扩展功能开发与实现",
+    "LiTruck/扩展功能开发与实现.md",
     "知识扩展/Ubuntu常用代码阅读与调试指令.md",
+    "知识扩展/计算机网络基础知识整理.md",
     "LiTruck/环境配置与项目部署/PyCharm 远程运行与调试 Docker 中的 ROS Python 程序：完整配置手册.md",
     "LiTruck/环境配置与项目部署/docker_ros1_LicTruck&CLion&PyCharm.md",
     "世界模型",
