@@ -57,6 +57,20 @@ rg "关键词" -g '*.cpp' -g '*.h'
 rg "关键词" -g '*.py'
 ```
 
+例子：
+```bash
+ldd@ldd-ThinkBook-16-G8-IRL:~$ cd /home/ldd/mult_truck-main
+
+grep -rn "static_fence_yaml_path" \
+    --include="*.launch" \
+    --include="*.xml" \
+    --include="*.yaml" \
+    --include="*.yml" \
+    --include="*.cpp" \
+    --include="*.h" \
+```
+
+    .
 ## 3. 代码查看与提取
 
 ```bash

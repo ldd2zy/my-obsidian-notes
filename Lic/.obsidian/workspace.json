@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "ac9298e5d5e371ff",
+        "id": "c72f91fbe74d0038",
         "type": "tabs",
         "children": [
           {
-            "id": "9b896231755a8e8f",
+            "id": "44535110fcd1558c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知识扩展/自动驾驶软件测试学习笔记.md",
+                "file": "LiTruck/环境配置与项目部署/CLion Docker 调试 ROS 参数传递与 YAML 文件读取问题.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "自动驾驶软件测试学习笔记"
-            }
-          },
-          {
-            "id": "a7ab5f47b0fa2a17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "知识扩展/自动驾驶软件测试学习笔记.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "自动驾驶软件测试学习笔记"
-            }
-          },
-          {
-            "id": "3b2412d6caa50cb8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LiTruck/环境配置与项目部署/CLion配置部署（Ubuntu + Docker + ROS Noetic）.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CLion配置部署（Ubuntu + Docker + ROS Noetic）"
+              "title": "CLion Docker 调试 ROS 参数传递与 YAML 文件读取问题"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -225,18 +196,19 @@
       "bases:新建数据库": false
     }
   },
-  "active": "3b2412d6caa50cb8",
+  "active": "44535110fcd1558c",
   "lastOpenFiles": [
     "知识扩展/Ubuntu常用代码阅读与调试指令.md",
-    "LiTruck/环境配置与项目部署/CLion配置部署（Ubuntu + Docker + ROS Noetic）.md",
+    "LiTruck/环境配置与项目部署/CLion Docker 调试 ROS 参数传递与 YAML 文件读取问题.md",
+    "LiTruck/环境配置与项目部署/PyCharm 远程运行与调试 Docker 中的 ROS Python 程序：完整配置手册.md",
     "知识扩展/自动驾驶软件测试学习笔记.md",
+    "LiTruck/环境配置与项目部署/CLion配置部署（Ubuntu + Docker + ROS Noetic）.md",
     "知识扩展/Git 常用命令.md",
     "知识扩展/计算机网络基础知识整理.md",
     "世界模型/世界模型研究现状调研.md",
     "未命名",
     "LiTruck/扩展功能开发与实现",
     "LiTruck/扩展功能开发与实现.md",
-    "LiTruck/环境配置与项目部署/PyCharm 远程运行与调试 Docker 中的 ROS Python 程序：完整配置手册.md",
     "LiTruck/环境配置与项目部署/docker_ros1_LicTruck&CLion&PyCharm.md",
     "世界模型",
     "知识扩展",

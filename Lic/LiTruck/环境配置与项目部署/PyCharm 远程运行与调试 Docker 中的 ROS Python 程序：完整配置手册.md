@@ -474,14 +474,14 @@ Run → Edit Configurations...
 
 选择原有 Python 配置，确认参数如下：
 
-|配置项|设置值|
-|---|---|
-|Name|`ROS Docker 通用运行`|
-|类型|Python|
-|Python interpreter|宿主机项目虚拟环境|
-|Script path|`/home/ldd/mult_truck-main/run_in_ros.py`|
-|Parameters|`$FilePath$`|
-|Working directory|`/home/ldd/mult_truck-main`|
+| 配置项                | 设置值                                       |
+| ------------------ | ----------------------------------------- |
+| Name               | `ROS Docker 通用运行`                         |
+| 类型                 | Python                                    |
+| Python interpreter | 宿主机项目虚拟环境                                 |
+| Script path        | `/home/ldd/mult_truck-main/run_in_ros.py` |
+| Parameters         | `$FilePath$`                              |
+| Working directory  | `/home/ldd/mult_truck-main`               |
 
 解释器选择：
 
@@ -563,17 +563,17 @@ Python Debug Server
 
 ## 7.2 配置参数
 
-|配置项|设置值|
-|---|---|
-|Name|`ROS Docker Remote Debug Server`|
-|IDE host name|`127.0.0.1`|
-|Port|`5678`|
+| 配置项           | 设置值                              |
+| ------------- | -------------------------------- |
+| Name          | `ROS Docker Remote Debug Server` |
+| IDE host name | `127.0.0.1`                      |
+| Port          | `5678`                           |
 
 路径映射设置：
 
-|Local path|Remote path|
-|---|---|
-|`/home/ldd/mult_truck-main`|`/home/ldd/mult_truck-main`|
+| Local path                  | Remote path                 |
+| --------------------------- | --------------------------- |
+| `/home/ldd/mult_truck-main` | `/home/ldd/mult_truck-main` |
 
 如果界面中有 `Suspend after connect` / `连接后挂起` 选项，可以保持当前已经验证成功的配置。
 
